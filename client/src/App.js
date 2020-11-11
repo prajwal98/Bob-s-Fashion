@@ -9,6 +9,7 @@ import SignInAndSignUpPage from './pages/sign-in-and-sign-up/sign-in-and-sign-up
 import CheckoutPage from './pages/checkout/checkout.component';
 import Header from './components/header/header.component';
 
+
 import { GlobalStyle } from './global.styles';
 
 import { selectCurrentUser } from './redux/user/user.selectors';
@@ -20,6 +21,10 @@ const App = ({ checkUserSession, currentUser }) => {
   }, [checkUserSession]);
 
   return (
+
+
+
+
     <div>
       <GlobalStyle />
       <Header />

@@ -29,13 +29,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prajwal98/fashionhub.git"
+    "url": "git+https://github.com/prajwal98/fashion.git"
   },
   "keywords": [],
   "author": "Prajwal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/prajwal98/fashionhub/issues"
+    "url": "https://github.com/prajwal98/fashion/issues"
   },
-  "homepage": "https://prajwal98.github.io/fashionhub"
+  "homepage": "https://prajwal98.github.io/fashion"
 }
